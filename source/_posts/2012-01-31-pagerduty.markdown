@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "PagerDuty, Nagios and Chef"
-author: Jake Vanderdray
 date: 2012-01-31 10:14
+author: Jake Vanderdray
 comments: true
 published: true
 categories: [Chef, PagerDuty, Nagios]
