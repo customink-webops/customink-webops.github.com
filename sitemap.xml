@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://customink-webops.github.com/blog/2011/11/21/why-we-chose-chef-over-puppet-at-customink/
+        </loc>
+        <lastmod>2012-02-06T21:09:39-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://customink-webops.github.com/blog/2012/01/31/pagerduty/</loc>
+        <lastmod>2012-02-06T21:09:39-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://customink-webops.github.com/blog/2012/02/06/test-post/</loc>
+        <lastmod>2012-02-06T21:15:39-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://customink-webops.github.com/blog/archives/</loc>
+        <lastmod>2012-02-06T21:15:39-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://customink-webops.github.com/</loc>
+        <lastmod>2012-02-06T21:15:39-05:00</lastmod>
+    </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: puppet | Octopus Ink]]></title>
+  <link href="http://customink-webops.github.com/blog/categories/puppet/atom.xml" rel="self"/>
+  <link href="http://customink-webops.github.com/"/>
+  <updated>2012-02-06T21:15:49-05:00</updated>
+  <id>http://customink-webops.github.com/</id>
+  <author>
+    <name><![CDATA[CustomInk Web Operations Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Why we chose Chef over Puppet at CustomInk]]></title>
+    <link href="http://customink-webops.github.com/blog/2011/11/21/why-we-chose-chef-over-puppet-at-customink/"/>
+    <updated>2011-11-21T03:29:00-05:00</updated>
+    <id>http://customink-webops.github.com/blog/2011/11/21/why-we-chose-chef-over-puppet-at-customink</id>
+    <content type="html"><![CDATA[<p>This has been moved to the <a href="http://technology.customink.com/blog/2011/11/21/why-we-chose-chef-over-puppet-at-customink/">CustomInk Technology Blog</a></p>
+]]></content>
+  </entry>
+  
+</feed>

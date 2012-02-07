@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: PagerDuty | Octopus Ink]]></title>
+  <link href="http://customink-webops.github.com/blog/categories/pagerduty/atom.xml" rel="self"/>
+  <link href="http://customink-webops.github.com/"/>
+  <updated>2012-02-06T21:15:49-05:00</updated>
+  <id>http://customink-webops.github.com/</id>
+  <author>
+    <name><![CDATA[CustomInk Web Operations Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[PagerDuty, Nagios and Chef]]></title>
+    <link href="http://customink-webops.github.com/blog/2012/01/31/pagerduty/"/>
+    <updated>2012-01-31T10:14:00-05:00</updated>
+    <id>http://customink-webops.github.com/blog/2012/01/31/pagerduty</id>
+    <content type="html"><![CDATA[<p>This has been moved to the <a href="http://technology.customink.com/blog/2012/01/31/pagerduty/">CustomInk Technology Blog</a></p>
+]]></content>
+  </entry>
+  
+</feed>
